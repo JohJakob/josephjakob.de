@@ -1,3 +1,3 @@
-# josephjakob.de
+# [josephjakob.de](http://josephjakob.de)
 
-_Website for Joseph Jakob_
+_Joseph Jakob – Digital & analog photography_

@@ -12,4 +12,6 @@ var feed = new Instafeed({
   }
 })
 
+document.getElementsByClassName("instafeed-loader")[0].removeAttribute("class");
+
 feed.run();

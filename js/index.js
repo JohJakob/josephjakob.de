@@ -12,6 +12,6 @@ var feed = new Instafeed({
   }
 })
 
-document.getElementsByClassName("instafeed-loader")[0].removeAttribute("class");
+document.getElementsByClassName("instafeed-loader-disabled")[0].removeAttribute("class");
 
 feed.run();
